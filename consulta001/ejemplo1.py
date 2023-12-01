@@ -1,6 +1,6 @@
 print ("Ingrese el primer valor")
-a = int(input ())
+x = int(input ())
 print ("Ingrese el segundo valor")
-b = int(input ())
-respuesta = a + b
+z = int(input ())
+respuesta = x + z
 print ("El resultado es: ", respuesta)
